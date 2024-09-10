@@ -1,0 +1,11 @@
+Form{
+	width:300px;
+	background-color:grey;
+	border-radius:5px;
+}
+
+button[type="SUBMIT"]{
+	width:100%;
+	background-color:green;
+	color:white;
+}

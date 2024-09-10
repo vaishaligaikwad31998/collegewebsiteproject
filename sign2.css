@@ -1,0 +1,30 @@
+header{
+	background-color:yellow;
+	color:white;
+	padding:20px
+}
+
+h1{
+	text-align:center;
+	color:red;
+}
+nav ul li{
+	display:inline;
+	margin-right:30px;
+}
+
+nav ul li a{
+	color:white;
+}
+
+div{
+	margin:20px;
+	width:80%;
+	background-color:grey;
+	border-radius:5px;
+	padding:20px;
+}
+
+nav ul li:hover{
+	background-color:blue;
+}
